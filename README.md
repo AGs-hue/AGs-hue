@@ -1,5 +1,5 @@
 ### Hi there friends👋
-🌱 I'm Frontend Developer currently learning javascript and react
+🌱 I'm a Frontend Developer currently learning javascript and react
 
 <!--
 **AGs-hue/AGs-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
